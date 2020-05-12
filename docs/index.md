@@ -36,4 +36,3 @@
 - [Issy](https://gotmax23.github.io/8G-Bingo-Cards/cards/Issy.pdf)
 - [Ophir](https://gotmax23.github.io/8G-Bingo-Cards/cards/Ophir.pdf)
 - [Jacob HS](https://gotmax23.github.io/8G-Bingo-Cards/cards/Jacob_HS.pdf)
-- [E1](https://gotmax23.github.io/8G-Bingo-Cards/cards/E1.pdf)
