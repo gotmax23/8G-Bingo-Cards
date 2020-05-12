@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Print your cards
 
-You can use the [editor on GitHub](https://github.com/gotmax23/8G-Bingo-Cards/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gotmax23/8G-Bingo-Cards/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Jessy](https://gotmax23.github.io/8G-Bingo-Cards/cards/01.pdf)
+[Adina](https://gotmax23.github.io/8G-Bingo-Cards/cards/02.pdf)
+[Mia B](https://gotmax23.github.io/8G-Bingo-Cards/cards/03.pdf)
+[Samara](https://gotmax23.github.io/8G-Bingo-Cards/cards/04.pdf)
+[Adi](https://gotmax23.github.io/8G-Bingo-Cards/cards/05.pdf)
+[Peyton](https://gotmax23.github.io/8G-Bingo-Cards/cards/06.pdf)
+[Asher](https://gotmax23.github.io/8G-Bingo-Cards/cards/07.pdf)
+[Davita](https://gotmax23.github.io/8G-Bingo-Cards/cards/08.pdf)
+[Nati](https://gotmax23.github.io/8G-Bingo-Cards/cards/09.pdf)
+[Mia Feinberg](https://gotmax23.github.io/8G-Bingo-Cards/cards/10.pdf)
+[Dalya](https://gotmax23.github.io/8G-Bingo-Cards/cards/11.pdf)
+[Mia Friedland](https://gotmax23.github.io/8G-Bingo-Cards/cards/12.pdf)
+[Catie](https://gotmax23.github.io/8G-Bingo-Cards/cards/13.pdf)
+[Ilana](https://gotmax23.github.io/8G-Bingo-Cards/cards/14.pdf)
+[Maxwell](https://gotmax23.github.io/8G-Bingo-Cards/cards/15.pdf)
+[Mitchell](https://gotmax23.github.io/8G-Bingo-Cards/cards/16.pdf)
+[Ezra](https://gotmax23.github.io/8G-Bingo-Cards/cards/17.pdf)
+[Ryan](https://gotmax23.github.io/8G-Bingo-Cards/cards/18.pdf)
+[Maya](https://gotmax23.github.io/8G-Bingo-Cards/cards/19.pdf)
+[Adam](https://gotmax23.github.io/8G-Bingo-Cards/cards/20.pdf)
+[Rotem](https://gotmax23.github.io/8G-Bingo-Cards/cards/21.pdf)
+[Simon](https://gotmax23.github.io/8G-Bingo-Cards/cards/22.pdf)
+[Annie](https://gotmax23.github.io/8G-Bingo-Cards/cards/23.pdf)
+[Ruby](https://gotmax23.github.io/8G-Bingo-Cards/cards/24.pdf)
+[Meira](https://gotmax23.github.io/8G-Bingo-Cards/cards/25.pdf)
+[Talia](https://gotmax23.github.io/8G-Bingo-Cards/cards/26.pdf)
+[Jacob](https://gotmax23.github.io/8G-Bingo-Cards/cards/27.pdf)
+[Rebecca](https://gotmax23.github.io/8G-Bingo-Cards/cards/28.pdf)
+[Olivia](https://gotmax23.github.io/8G-Bingo-Cards/cards/29.pdf)
+[Ben](https://gotmax23.github.io/8G-Bingo-Cards/cards/30.pdf)
+[Hannah](https://gotmax23.github.io/8G-Bingo-Cards/cards/31.pdf)
+[Yonah](https://gotmax23.github.io/8G-Bingo-Cards/cards/32.pdf)
+[Jordana](https://gotmax23.github.io/8G-Bingo-Cards/cards/33.pdf)
+[Issy](https://gotmax23.github.io/8G-Bingo-Cards/cards/34.pdf)
+[Ophir](https://gotmax23.github.io/8G-Bingo-Cards/cards/35.pdf)
