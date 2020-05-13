@@ -1,7 +1,7 @@
 # To DO
-- [ ] Contact teachers and list extra Card Owners
-- [ ] Randomize List- [Randomizer](https://www.random.org/lists/)
+- [x] Contact teachers and list extra Card owners
 - [ ] Convert pdf cards to GDocs if no printer- [converter](https://www.zamzar.com/conversion/document/pdf-to-docx.php)
+- [ ] Randomize List- [Randomizer](https://www.random.org/lists/)
 
 # Extra Card Owners
 - [E1- Ms. Rotman](https://gotmax23.github.io/8G-Bingo-Cards/cards/E1.pdf)
