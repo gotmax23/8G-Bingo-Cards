@@ -9,6 +9,7 @@ If you have any other questions please let us know. Again, it’s important that
 
 ## Cards
 *Click your name below to print and download your card.*
+- [Mrs. Rotman](https://gotmax23.github.io/8G-Bingo-Cards/cards/E1.pdf)
 - [Jessy](https://gotmax23.github.io/8G-Bingo-Cards/cards/Jessy.pdf)
 - [Adina](https://gotmax23.github.io/8G-Bingo-Cards/cards/Adina.pdf)
 - [Mia B](https://gotmax23.github.io/8G-Bingo-Cards/cards/Mia_B.pdf)
