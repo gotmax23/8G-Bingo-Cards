@@ -51,4 +51,5 @@ If you have any other questions please let us know. Again, it’s important that
 - [Jacob HS](https://gotmax23.github.io/8G-Bingo-Cards/cards/Jacob_HS.pdf)
 
 Good luck,
+
 Mitchell and Maxwell
