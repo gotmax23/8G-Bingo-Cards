@@ -1,9 +1,11 @@
 # Instructions
 Hi Everyone,
 
-We are leading a bingo game tomorrow at 2:15PM that will be a lot of fun. There will be prizes—a starbucks drink and a gift card. In order to play, **you must print your card before the game.** Click your name below to print out your card. Make sure to print out only your own card; we have a copy of all the cards and can make sure you used your own.
+We are leading a bingo game tomorrow at 2:15 that will be a lot of fun. If you want a chance at winning a Starbucks drink or $20 gift card, you should come play! 
 
-If you don’t have a printer, please let Maxwell and I know before the game, and we will give you alternative instructions. 
+In order to do so, you must print out your card before the game. Click your name below to print out your card. Make sure to print only your own card; we have a copy of all the cards and can make sure you use your own.
+
+If you don’t have a printer, please let Maxwell and I know before the game, and we will give you alternative instructions. 
 
 If you have any other questions please let us know. Again, it’s important that you print your card out or let us know you can't before the game; we want to start on time.
 
