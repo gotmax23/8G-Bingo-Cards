@@ -1,5 +1,12 @@
-## Print your cards
+# Instructions
+Hi Everyone,
 
+We are leading a bingo game tomorrow at 2:15 that will be a lot of fun. There will be prizes—a starbucks drink and a gift card. In order to play, **you must print your card before the game.** Click your name below to print out your card. Make sure to print out only your own card; we have a copy of all the cards and can make sure you used your own.
+
+If you don't have a printer, please let Maxwell and I know **before the game**, and we will give you alternative instructions. If you have any other questions please let us know. Make sure to print out only your own card; we have a copy of all the cards and can make sure you used your own. Again, it's important you let us know before so you're prepared and we can start on time.
+
+
+## Cards
 - [Jessy](https://gotmax23.github.io/8G-Bingo-Cards/cards/Jessy.pdf)
 - [Adina](https://gotmax23.github.io/8G-Bingo-Cards/cards/Adina.pdf)
 - [Mia B](https://gotmax23.github.io/8G-Bingo-Cards/cards/Mia_B.pdf)
@@ -26,7 +33,7 @@
 - [Ruby](https://gotmax23.github.io/8G-Bingo-Cards/cards/Ruby.pdf)
 - [Meira](https://gotmax23.github.io/8G-Bingo-Cards/cards/Meira.pdf)
 - [Talia](https://gotmax23.github.io/8G-Bingo-Cards/cards/Talia.pdf)
-- [Jacob Perlen](https://gotmax23.github.io/8G-Bingo-Cards/cards/Jacob_Perlen.pdf)
+- [Jake Perlen](https://gotmax23.github.io/8G-Bingo-Cards/cards/Jacob_Perlen.pdf)
 - [Rebecca](https://gotmax23.github.io/8G-Bingo-Cards/cards/Rebecca.pdf)
 - [Olivia](https://gotmax23.github.io/8G-Bingo-Cards/cards/Olivia.pdf)
 - [Ben](https://gotmax23.github.io/8G-Bingo-Cards/cards/Ben.pdf)
