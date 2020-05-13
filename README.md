@@ -4,8 +4,8 @@
 - [ ] Convert pdf cards to GDocs if no printer- [converter](https://www.zamzar.com/conversion/document/pdf-to-docx.php)
 
 # Extra Card Owners
-- [E1- Mrs. Rotman](https://gotmax23.github.io/8G-Bingo-Cards/cards/E1.pdf)
-- [E2](https://gotmax23.github.io/8G-Bingo-Cards/cards/E2.pdf)
+- [E1- Ms. Rotman](https://gotmax23.github.io/8G-Bingo-Cards/cards/E1.pdf)
+- [E2- Mr. Staple](https://gotmax23.github.io/8G-Bingo-Cards/cards/E2.pdf)
 - [E3](https://gotmax23.github.io/8G-Bingo-Cards/cards/E3.pdf)
 - [E4](https://gotmax23.github.io/8G-Bingo-Cards/cards/E4.pdf)
 - [E5](https://gotmax23.github.io/8G-Bingo-Cards/cards/E5.pdf)

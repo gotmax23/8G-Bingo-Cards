@@ -1,17 +1,17 @@
 # Instructions
 Hi Everyone,
 
-We are leading a bingo game tomorrow at 2:15 that will be a lot of fun. If you want a chance at winning a Starbucks drink or $20 gift card, you should come play! 
+We are leading a bingo game tomorrow at 2:15 that will be a lot of fun. If you want a chance at winning a Starbucks drink or $20 gift card, you should come play!
 
 In order to do so, you must print out your card before the game. Click your name below to print out your card. Make sure to print only your own card; we have a copy of all the cards and can make sure you use your own.
 
-If you don’t have a printer, please let Maxwell and I know before the game, and we will give you alternative instructions. 
+If you don’t have a printer, please let Maxwell and I know before the game, and we will give you alternative instructions.
 
 If you have any other questions please let us know. Again, it’s important that you print your card out or let us know you can't before the game; we want to start on time.
 
 ## Cards
 *Click your name below to print and download your card.*
-- [Mrs. Rotman](https://gotmax23.github.io/8G-Bingo-Cards/cards/E1.pdf)
+- [Ms. Rotman](https://gotmax23.github.io/8G-Bingo-Cards/cards/E1.pdf)
 - [Jessy](https://gotmax23.github.io/8G-Bingo-Cards/cards/Jessy.pdf)
 - [Adina](https://gotmax23.github.io/8G-Bingo-Cards/cards/Adina.pdf)
 - [Mia B](https://gotmax23.github.io/8G-Bingo-Cards/cards/Mia_B.pdf)
@@ -48,3 +48,6 @@ If you have any other questions please let us know. Again, it’s important that
 - [Issy](https://gotmax23.github.io/8G-Bingo-Cards/cards/Issy.pdf)
 - [Ophir](https://gotmax23.github.io/8G-Bingo-Cards/cards/Ophir.pdf)
 - [Jacob HS](https://gotmax23.github.io/8G-Bingo-Cards/cards/Jacob_HS.pdf)
+
+Good luck,
+Mitchell and Maxwell
